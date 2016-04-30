@@ -1,4 +1,4 @@
-package com.llpeng.yate.render;
+package com.llpeng.yate.token;
 
 
 import com.llpeng.yate.util.Constant;
@@ -59,7 +59,7 @@ public abstract class Token {
         this.escape = escape;
     }
 
-    //render a token by its type
+    //token a token by its type
     public String render(final List<Map<String, Object>> contexts)
             throws Exception {
         switch (type) {
@@ -80,13 +80,13 @@ public abstract class Token {
         }
     }
 
-    //render Literal Type token.
+    //token Literal Type token.
     //need to Clean useless left spaces and '\n'
     private String renderLiteral() {
         return textClean(this.value);
     }
 
-    //render Inverted Type token
+    //token Inverted Type token
     private String renderInverted(final List<Map<String, Object>> contexts)
             throws Exception {
         Object value;
@@ -109,7 +109,7 @@ public abstract class Token {
 
     }
 
-    //render Variable Type token.
+    //token Variable Type token.
     // Throw NPE if value not found.
     private String renderVariable(final List<Map<String, Object>> contexts) {
         if (this.value.contains(".")) {

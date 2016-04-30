@@ -1,4 +1,4 @@
-package com.llpeng.yate.render;
+package com.llpeng.yate.token;
 
 /**
  * Created by lawrence on 16/4/30.

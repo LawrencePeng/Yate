@@ -2,7 +2,7 @@ package com.llpeng.yate.yate;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.llpeng.yate.render.RootToken;
+import com.llpeng.yate.token.RootToken;
 import com.llpeng.yate.util.Constant;
 import com.llpeng.yate.util.Helper;
 
@@ -13,11 +13,11 @@ import java.util.Map;
 
 /**
  * Created by lawrence on 16/4/28.
- * Renderer is the entry of the render process.
+ * Renderer is the entry of the token process.
  */
 public class Renderer {
 
-    //render the template by the json input.
+    //token the template by the json input.
     public static String render(final String template,
                   final String contexts,
                   final String leftDelimiter,
