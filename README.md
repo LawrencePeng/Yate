@@ -10,8 +10,8 @@ add the ./target/yate*.jar to your project.
 ## DEMO
 
 ```
- String template == 
-  <h1>{{header}}</h1>
+ String template == \\
+<h1>{{header}}</h1>
 {{#bug}}
 {{/bug}}
 
@@ -49,3 +49,4 @@ Renderer.render(template, contexts) == String \\
 \\
 ```
 
+JSON Object is also enable to be pass as the contexts to eliminate the redundant conversion.
