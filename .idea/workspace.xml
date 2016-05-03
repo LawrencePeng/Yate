@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66f7a1ba-d155-463e-a9e0-bd1c8dd8a863" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StaticFileServer/.idea/libraries/yate_1_0_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../StaticFileServer/.idea/libraries/com.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/App.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/yate/Render.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" afterPath="" />
@@ -34,36 +29,10 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/yate-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/yate/Render.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/yate/Renderer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../C++/Mosh/mosh" afterPath="$PROJECT_DIR$/../../C++/Mosh/mosh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/CommentToken.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/CommentToken.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/InvertedToken.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/InvertedToken.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/LiteralToken.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/LiteralToken.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/RootToken.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/RootToken.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/SectionToken.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/SectionToken.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/Token$1.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/Token$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/Token$Type.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/Token$Type.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/Token.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/Token.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/VariableToken.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/render/VariableToken.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/util/Constant.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/util/Constant.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/util/Helper$1.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/util/Helper$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/util/Helper$2.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/util/Helper$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/util/Helper.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/util/Helper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Python/scrapy-redis" afterPath="$PROJECT_DIR$/../../Python/scrapy-redis" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Scheme/JCScheme" afterPath="$PROJECT_DIR$/../../Scheme/JCScheme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StaticFileServer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../StaticFileServer/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StaticFileServer/StaticFileServer.iml" afterPath="$PROJECT_DIR$/../StaticFileServer/StaticFileServer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StaticFileServer/src/Main.java" afterPath="$PROJECT_DIR$/../StaticFileServer/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/llpeng/yate/yate/Renderer.class" afterPath="$PROJECT_DIR$/target/classes/com/llpeng/yate/yate/Renderer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/CommentToken.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/CommentToken.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/InvertedToken.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/InvertedToken.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/SectionToken.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/SectionToken.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/VariableToken.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/VariableToken.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Constant.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Constant.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Helper.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Helper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/yate/Renderer.java" afterPath="$PROJECT_DIR$/src/main/java/com/llpeng/yate/yate/Renderer.java" />
     </list>
     <ignored path="yate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,11 +56,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Renderer.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Renderer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/yate/Renderer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="220">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;class#Renderer#0" expanded="true" />
@@ -100,44 +69,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Token.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="112" column="35" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
-              <folding>
-                <element signature="docComment;class#Token#0" expanded="true" />
-                <element signature="e#2027#2028#0" expanded="true" />
-                <element signature="e#2071#2072#0" expanded="true" />
-                <element signature="e#3116#3117#0" expanded="true" />
-                <element signature="e#3160#3161#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LiteralToken.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Helper.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Helper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Helper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5522">
+            <state relative-caret-position="654">
               <caret line="257" column="0" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
-              <folding>
-                <element signature="class#4998:5092" expanded="true" />
-                <element signature="class#5464:5558" expanded="true" />
-              </folding>
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -162,7 +109,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -172,7 +119,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../../临时/YATE/src/render/VariableToken.java" />
+        <option value="$USER_HOME$/临时/YATE/src/render/VariableToken.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java" />
@@ -184,9 +131,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/llpeng/yate/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Constant.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/llpeng/yate/yate/Render.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/llpeng/yate/yate/Renderer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Helper.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/llpeng/yate/yate/Renderer.java" />
       </list>
     </option>
   </component>
@@ -218,6 +166,20 @@
           <option name="myItemId" value="yate" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="yate" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
       </PATH>
       <PATH>
         <PATH_ELEMENT>
@@ -237,7 +199,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1280" />
-    <option name="height" value="796" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -264,6 +226,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -368,19 +332,13 @@
               <option name="myItemId" value="yate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="render" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -388,6 +346,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -883,15 +842,16 @@
       <workItem from="1461945418061" duration="14051000" />
       <workItem from="1461986183051" duration="4281000" />
       <workItem from="1461992547972" duration="2391000" />
+      <workItem from="1462260018224" duration="503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22785000" />
+    <option name="totallyTimeSpent" value="23288000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="796" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -901,7 +861,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263328" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3260274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -951,7 +911,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/App.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -982,48 +941,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/CommentToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/SectionToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/VariableToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/CommentToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/SectionToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/VariableToken.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1052,48 +975,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/CommentToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/SectionToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/VariableToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/CommentToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/SectionToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/VariableToken.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1122,48 +1009,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/CommentToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/SectionToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/VariableToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/CommentToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/SectionToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/VariableToken.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1201,62 +1052,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/VariableToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/SectionToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/InvertedToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/CommentToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="docComment;class#RootToken#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/VariableToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/SectionToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/InvertedToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/CommentToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/RootToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/LiteralToken.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/App.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Constant.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1266,38 +1067,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="257" column="0" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/yate/Renderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state relative-caret-position="220">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#Renderer#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/render/Token.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="112" column="35" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
-          <folding>
-            <element signature="docComment;class#Token#0" expanded="true" />
-            <element signature="e#2027#2028#0" expanded="true" />
-            <element signature="e#2071#2072#0" expanded="true" />
-            <element signature="e#3116#3117#0" expanded="true" />
-            <element signature="e#3160#3161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llpeng/yate/util/Helper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5522">
-          <caret line="257" column="0" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
-          <folding>
-            <element signature="class#4998:5092" expanded="true" />
-            <element signature="class#5464:5558" expanded="true" />
           </folding>
         </state>
       </provider>

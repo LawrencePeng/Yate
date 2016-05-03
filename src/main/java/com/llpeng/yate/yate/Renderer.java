@@ -40,6 +40,34 @@ public class Renderer {
     }
 
     public static String render(final String template,
+                                final Object contexts,
+                                final String leftDelimiter,
+                                final String rightDelimiter)
+            throws Exception {
+        Object jsonObject = JSON.toJSON(contexts);
+        List<Map<String, Object>> list;
+        if (jsonObject instanceof JSONObject) {
+            list = new ArrayList<>();
+            list.add((Map<String, Object>) jsonObject);
+        } else {
+            list = (List<Map<String, Object>>) jsonObject;
+        }
+        return render(template,
+                list,
+                leftDelimiter,
+                rightDelimiter);
+    }
+
+    public static String render(final String template,
+                                final Object contexts)
+            throws Exception {
+        return render(template,
+                contexts,
+                Constant.LEFT_DEFAULT_DELIMITERS,
+                Constant.RIGHT_DEFAULT_DELIMITERS);
+    }
+
+    public static String render(final String template,
                                 final String contexts)
             throws Exception {
         return render(template,
