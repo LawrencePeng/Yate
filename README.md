@@ -49,4 +49,4 @@ Renderer.render(template, contexts) == String \\
 \\
 ```
 
-JSON Object is also enable to be pass as the contexts to eliminate the redundant conversion.
+JSON Object is also enable to be passed as the contexts to eliminate the redundant conversion.
