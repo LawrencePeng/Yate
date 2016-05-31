@@ -17,7 +17,7 @@ import java.util.Map;
  */
 public class Renderer {
 
-    //token the template by the json input.
+    //render the template by the json input.
     public static String render(final String template,
                   final String contexts,
                   final String leftDelimiter,
