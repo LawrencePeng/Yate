@@ -13,7 +13,7 @@ import java.util.Map;
 
 /**
  * Created by lawrence on 16/4/28.
- * Renderer is the entry of the token process.
+ * Renderer is the entry point of the token process.
  */
 public class Renderer {
 
